@@ -2134,11 +2134,8 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			width: 100px;
-			height: 150px;
-			border-radius: 50%;
-			object-fit: cover;
-			border:2px solid #ccc;
+			width: 300px;
+			height: auto;
 		}
 
 			.image.avatar:before {
