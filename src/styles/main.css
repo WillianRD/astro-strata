@@ -2134,9 +2134,10 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			width: 300px;
-			height: auto;
-			aspect-ratio: cover;
+			width: 150px;
+			height: 150px;
+			border-radius: 50%;
+			object-fit: cover;
 
 		}
 
